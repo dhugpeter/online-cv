@@ -60,10 +60,12 @@ education:
 
 publications:
     title: Publications
-      
-      - title:
+    
+    papers:
+      - title: Modeling whole body trace metal concentrations in aquatic invertebrate communities: a trait-based approach.
         authors:
         conference:
+
 
 skills:
     title: Skills &amp; Proficiency
