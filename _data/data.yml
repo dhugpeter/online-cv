@@ -60,7 +60,10 @@ education:
 
 publications:
     title: Publications
-
+      
+      - title:
+        authors:
+        conference:
 
 skills:
     title: Skills &amp; Proficiency
