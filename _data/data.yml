@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Dr. Dorothea Hug Peter, PhD
+    name: Dr. Dorothea Hug Peter
     tagline: Environmental Scientist/Ecologist
     avatar: portrait.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -46,17 +46,26 @@ career-profile:
       that longs for analysis or an exciting field project that requires an experienced aquatic ecologist, 
       please let me know!
 
+
+
 education:
+
+    - degree: PhD in Environmental Sciences
+      university: University of Geneva, Department F.-A. Forel for Environmental and Aquatic Sciences
+      time: 2011-2016
+      details: |
+        Title: Trace Metals and Aquatic Invertebrates in a Floodplain - From Chemical Speciation to Community Composition
+        Defended: September 2016, summa cum laude
+        Supervisors: Prof. Vera Slaveykova and Dr. Emmanuel Castella
+        Combining field sampling and modeling to improve the mechanistic understanding of the biogeochemistry of trace metals in a floodplain and their interactions with aquatic invertebrates.}
+  
     - degree: MSc Biology
       university: University of Geneva
       time: 2010 - 2011
       details: |
-       
-    - degree: PhD in Environmental Sciences
-      university: University of Geneva
-      time: 2011-2016
-      details: |
-        Trace metals and aquatic Invertebrates in the Rhone river floodplain.
+       Thesis title: Ecology and conservation of freshwater gastropods in the Upper Rhône floodplain, with special emphasis on the threatened Anisus vorticulus (Troschel, 1834)
+       Supervisor: Dr. Emmanuel Castella, Aquatic Ecology Group (LEBA)
+       Improvement of the habitat model of the species, evaluation of its suitability as umbrella species and evaluation of its resistance to habitat change.
 
 publications:
     title: Publications
@@ -66,6 +75,12 @@ publications:
         authors:
         conference:
 
+experience:
+    - employer:
+      time: 2018-2019
+      details: |
+      'Research: Modeling of spatial dependencies in stream networks'
+      'Teaching: Statistical modeling (Teaching assistance), Introduction to R (Lecturer)'
 
 skills:
     title: Skills &amp; Proficiency
